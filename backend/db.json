@@ -1,0 +1,53 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "The Power of IoT in Modern Life - Kamenju",
+      "description": "Explore how IoT technology is transforming our daily routines.",
+      "image": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
+      "is_achieved": false
+    },
+    {
+      "id": 2,
+      "title": "10 Tips for Effective Product Launches",
+      "description": "Learn key strategies for successfully launching new products in the market.",
+      "image": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
+      "is_achieved": true
+    },
+    {
+      "id": 3,
+      "title": "Cybersecurity Essentials for Every Business",
+      "description": "Discover essential cybersecurity measures to protect your organization.",
+      "image": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
+      "is_achieved": false
+    },
+    {
+      "id": 4,
+      "title": "Website Performance Optimization Guide",
+      "description": "Optimize your website for better loading times and user satisfaction.",
+      "image": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
+      "is_achieved": true
+    },
+    {
+      "id": 5,
+      "title": "Strategies for Expanding Market Reach",
+      "description": "Unlock opportunities by expanding your business into untapped markets.",
+      "image": "https://images.unsplash.com/photo-1566438480900-0609be27a4be?auto=format&fit=crop&q=60&w=500&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW1hZ2V8ZW58MHx8MHx8fDA%3D",
+      "is_achieved": true
+    },
+    {
+      "title": "This is a new blog",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg",
+      "is_achieved": false,
+      "id": 9
+    },
+    {
+      "title": "This is a new blog",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "image": "https://img.freepik.com/free-vector/bird-colorful-logo-gradient-vector_343694-1365.jpg",
+      "is_achieved": false,
+      "id": 10
+    }
+  ]
+}
