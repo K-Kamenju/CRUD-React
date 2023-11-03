@@ -8,7 +8,7 @@ function Blogs() {
     const [onChange, setOnChange] = useState(false)
 
     useEffect(() => {
-        fetch("http://localhost:4000/blog")
+        fetch("https://crud-react-tql0.onrender.com/blog")
         .then(res => res.json())
         .then(data => {
             console.log(data)

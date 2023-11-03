@@ -10,7 +10,7 @@ function SingleBlog() {
 
 
     useEffect(() => {
-        fetch(`http://localhost:4000/blog/${id}`)
+        fetch(`https://crud-react-tql0.onrender.com/blog/${id}`)
         .then(res => res.json())
         .then(data => {
             setBlog(data)

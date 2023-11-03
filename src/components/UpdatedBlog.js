@@ -20,7 +20,7 @@ function UpdatedBlog({ blog, change, setChange }) {
             image: formData.image,
             is_achieved: formData.is_achieved
         }
-        fetch(`http://localhost:4000/blog/${blog.id}`, {
+        fetch(`https://crud-react-tql0.onrender.com/blog/${blog.id}`, {
             method: 'PATCH',
             headers: {
                 'Content-Type': 'application/json'

@@ -17,7 +17,7 @@ function Blog({blog, onChange, setOnChange}) {
           confirmButtonText: 'Yes, delete it!'
         }).then((result) => {
           if (result.isConfirmed) {
-            fetch(`http://localhost:4000/blog/${blog.id}`, {
+            fetch(`https://crud-react-tql0.onrender.com/blog/${blog.id}`, {
             method: 'DELETE'
             })
             .then(res => res.json())

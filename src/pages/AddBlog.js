@@ -20,7 +20,7 @@ function AddBlog() {
             image: formData.image,
             is_achieved: false
         }
-        fetch("http://localhost:4000/blog", {
+        fetch("https://crud-react-tql0.onrender.com/blog", {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
