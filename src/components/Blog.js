@@ -41,7 +41,7 @@ function Blog({blog, onChange, setOnChange}) {
         <p className="text-nowrap text-truncate overflow-hidden">{blog.title}</p>
         <div className='d-flex justify-content-between px-2'>
             <Link to={`/blog/${blog.id}`} className="btn btn-outline-primary mb-3 btn-sm">
-                <h5 className="d-inline">Read </h5>
+                <h5 className="d-inline"> Read </h5>
             </Link>
 
             <button type="button" className="btn btn-outline-danger mb-3 btn-sm" onClick={() => deleteBtn()}>X</button>
